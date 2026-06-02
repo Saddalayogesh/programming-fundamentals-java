@@ -4,13 +4,12 @@ public class Solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int costPerDozen = sc.nextInt();
+        int cost = sc.nextInt();
         int dozens = sc.nextInt();
-        int discountPercent = sc.nextInt();
+        int discount = sc.nextInt();
 
-        int totalCost = costPerDozen * dozens;
-        int discountAmount = (totalCost * discountPercent) / 100;
-        int finalAmount = totalCost - discountAmount;
+        int total = cost * dozens;
+        int finalAmount = total - (total * discount / 100);
 
         System.out.println(finalAmount);
 
