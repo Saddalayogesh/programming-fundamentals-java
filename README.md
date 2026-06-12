@@ -2,7 +2,7 @@
 
 My coding exercise solutions for the **Programming Fundamentals in Java** course | Powered by **Training Mug**.
 
-## 📚 Topics Covered
+## 📚 Exercises Covered
 
 - Variables and Data Types
 - Input and Output Operations
@@ -16,6 +16,16 @@ My coding exercise solutions for the **Programming Fundamentals in Java** course
 - Number-Based Programs
 - Basic Problem Solving
 
+## 📂 Project Structure
+
+```text
+programming-fundamentals-java/
+├── src/
+│   └── Exercise Solutions
+├── .gitignore
+└── *.iml
+```
+
 ## 🛠️ Tech Stack
 
 - Java
@@ -23,15 +33,6 @@ My coding exercise solutions for the **Programming Fundamentals in Java** course
 - Git
 - GitHub
 - Training Mug
-
-## 📂 Project Structure
-
-```text
-programming-fundamentals-java/
-├── src/
-├── .gitignore
-└── *.iml
-```
 
 ## 👨‍💻 Author
 
