@@ -1,8 +1,8 @@
-🚀 Programming Fundamentals in Java
+# 🚀 Programming Fundamentals in Java
 
-My coding exercise solutions for the Programming Fundamentals in Java course | Powered by Training Mug.
+My coding exercise solutions for the **Programming Fundamentals in Java** course | Powered by **Training Mug**.
 
-📚 Topics Covered
+## 📚 Topics Covered
 
 - Variables and Data Types
 - Input and Output Operations
@@ -16,7 +16,7 @@ My coding exercise solutions for the Programming Fundamentals in Java course | P
 - Number-Based Programs
 - Basic Problem Solving
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Java
 - IntelliJ IDEA
@@ -24,13 +24,15 @@ My coding exercise solutions for the Programming Fundamentals in Java course | P
 - GitHub
 - Training Mug
 
-📂 Project Structure
+## 📂 Project Structure
 
+```text
 programming-fundamentals-java/
 ├── src/
 ├── .gitignore
 └── *.iml
+```
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Saddala Yogesh
+**Saddala Yogesh**
